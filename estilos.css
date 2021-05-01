@@ -1,0 +1,33 @@
+header{
+    background-color: navajowhite;
+}
+
+body{
+    background-color: cadetblue;
+}
+.inputBox{
+    font-weight: bolder;
+    font-size: larger;
+    background-color: navajowhite;
+}
+
+.selecColor{
+    font-weight: bolder;
+    font-size: larger;
+    background-color: navajowhite;
+}
+
+.selecDisp{
+    font-weight: bolder;
+    font-size: larger;
+    background-color: navajowhite;
+}
+
+.boton{
+    font-weight: bolder;
+    font-size: larger;
+    background-color: navajowhite;
+}
+body{
+    text-align: center;
+}
